@@ -6,7 +6,8 @@ class LandingPage extends Component {
     render(){
         return (
             <div>
-                <h1>Landing Page</h1>
+                <h1>Sentimetal</h1>
+                <p>Your Place for all metal needs</p>
             </div>
         )
     }
